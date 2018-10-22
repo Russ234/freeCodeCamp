@@ -37,7 +37,7 @@ The `text-align` property is specified as a single keyword chosen from the list 
 `text-align: initial;` default value
 
 `text-align: unset;` applies either the inherit or the initial value, depending on the default properties of the element
-
+my changes
 #### More Information:
 - <a href='https://www.w3.org/TR/REC-CSS1/#text-align' target='_blank' rel='nofollow'>CSS1 Spec</a>
 - <a href='https://www.w3.org/TR/CSS21/text.html#alignment-prop' target='_blank' rel='nofollow'>CSS2 Spec</a>
